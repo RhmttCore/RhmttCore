@@ -8,7 +8,6 @@
 
 💡 &nbsp;I like everything related to technology such as software development and others.\
 🌱 &nbsp;I am currently developing an AI bot for the WhatsApp application
-[Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
